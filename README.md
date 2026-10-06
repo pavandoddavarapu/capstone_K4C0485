@@ -1,4 +1,4 @@
-# 🌾 SmartKisan360
+# 🌾 CropMind
 
 > **An AI + IoT powered smart agriculture platform connecting farmers with intelligent crop insights, real-time farm monitoring, and direct markets.**
 
