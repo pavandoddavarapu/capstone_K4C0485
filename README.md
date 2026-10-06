@@ -10,8 +10,7 @@
 </p>
 
 ---
-
-## 🚜 What is Farm2Home?
+m2Home?
 
 **Farm2Home** is a unified digital agriculture ecosystem designed to help farmers make **smarter, faster, and more informed farming decisions**.
 
