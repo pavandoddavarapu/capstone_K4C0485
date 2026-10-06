@@ -12,7 +12,7 @@
 ---
 m2Home?
 
-**Farm2Home** is a unified digital agriculture ecosystem designed to help farmers make **smarter, faster, and more informed farming decisions**.
+**CropMind** is a unified digital agriculture ecosystem designed to help farmers make **smarter, faster, and more informed farming decisions**.
 
 The platform brings together:
 
@@ -60,7 +60,7 @@ The platform can assist with:
 
 ### 📡 IoT-Based Farm Monitoring
 
-Farm2Home can integrate with agricultural IoT sensors to continuously monitor field conditions.
+CropMind can integrate with agricultural IoT sensors to continuously monitor field conditions.
 
 | Sensor           | Monitoring              |
 | ---------------- | ----------------------- |
@@ -77,7 +77,7 @@ Sensor data can be combined with **crop requirements and weather information** t
 
 Water is one of the most valuable resources in agriculture.
 
-Farm2Home uses:
+CropMind uses:
 
 ```text
 IoT Sensor Data
@@ -120,7 +120,7 @@ Buyers can browse available products and **communicate directly with farmers**, 
 
 Technology should work **for farmers — not the other way around.**
 
-Farm2Home is designed to support:
+CropMind is designed to support:
 
 * 🌐 Regional languages
 * 🎙️ Voice-based interaction
@@ -135,7 +135,7 @@ Farmers can interact with the system in their **preferred language**, reducing d
 
 ```mermaid
 flowchart LR
-    A[👨‍🌾 Farmer] --> B[📱 Farm2Home]
+    A[👨‍🌾 Farmer] --> B[📱 CropMind]
 
     B --> C[🤖 AI Crop Analysis]
     B --> D[📡 IoT Farm Monitoring]
@@ -160,7 +160,7 @@ flowchart LR
 ## 🔄 Platform Ecosystem
 
 ```text
-                 🌾 Farm2Home
+                 🌾 CropMind
                          │
        ┌─────────────────┼─────────────────┐
        │                 │                 │
@@ -188,7 +188,7 @@ flowchart LR
 
 ## 🎯 Our Goal
 
-The goal of **Farm2Home** is to create a simple and accessible digital ecosystem where farmers can access multiple agricultural services from a single platform.
+The goal of **CropMind** is to create a simple and accessible digital ecosystem where farmers can access multiple agricultural services from a single platform.
 
 ### We aim to help farmers:
 
@@ -201,13 +201,13 @@ The goal of **Farm2Home** is to create a simple and accessible digital ecosystem
 
 ---
 
-## 🌍 Why Farm2Home?
+## 🌍 Why CropMind?
 
 Traditional farming decisions often depend on limited information, delayed assistance, and complex market access.
 
-Farm2Home brings these capabilities together:
+CropMind brings these capabilities together:
 
-| Traditional Challenge             | Farm2Home          |
+| Traditional Challenge             | CropMind          |
 | --------------------------------- | ---------------------------- |
 | ❌ Limited crop information        | 🤖 AI-powered insights       |
 | ❌ Manual field monitoring         | 📡 IoT monitoring            |
@@ -223,7 +223,7 @@ Farm2Home brings these capabilities together:
 
 > **"Empowering every farmer with intelligent technology, actionable insights, and better access to markets."**
 
-Farm2Home envisions a future where **AI, IoT, voice technology, and digital marketplaces work together to make agriculture more connected, efficient, and accessible.**
+CropMind envisions a future where **AI, IoT, voice technology, and digital marketplaces work together to make agriculture more connected, efficient, and accessible.**
 
 ---
 
@@ -242,7 +242,7 @@ Farm2Home envisions a future where **AI, IoT, voice technology, and digital mark
 
 ---
 
-## 🌾 Farm2Home
+## 🌾 CropMind
 
 **AI × IoT × Agriculture × Language × Marketplace**
 
