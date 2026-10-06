@@ -12,7 +12,7 @@
 ---
 m2Home?
 
-**CropMind** is a unified digital agriculture ecosystem designed to help farmers make **smarter, faster, and more informed farming decisions**.
+**CropMind** is an AI/ML and IoT based smart agriculture platform that helps farmers monitor crop health, detect plant diseases, and receive intelligent irrigation and crop advisory. IoT sensors collect real-time field data, while AI/ML models analyze crop images and environmental conditions to provide actionable insights. The platform also includes a **farmer marketplace** that enables direct selling of crops and vegetables to customers without intermediaries, improving market access and farmer income..
 
 The platform brings together:
 
