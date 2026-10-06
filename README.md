@@ -1,6 +1,6 @@
 # 🌾 CropMind
 
-> **An AI + IoT powered smart agriculture platform connecting farmers with intelligent crop insights, real-time farm monitoring, and direct markets.**
+> **Crop Research Optimization & Predictive Monitoring through Intelligent Networked Data**
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-green?style=for-the-badge&logo=openai" alt="AI Powered"/>
